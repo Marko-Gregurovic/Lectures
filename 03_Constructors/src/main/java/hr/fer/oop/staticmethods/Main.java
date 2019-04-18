@@ -14,7 +14,7 @@ public class Main {
 		
 		Point.centerOf(a, b).print();
 		Point.centerOf(a, b, c).print();
-		Point.centerOf(a, b, c, new Point(4,8)).print();;
+		Point.centerOf(a, b, c, new Point(4,8)).print();
 		
 		Vector v = new Vector(new Point(3,4));
 		v.print();
